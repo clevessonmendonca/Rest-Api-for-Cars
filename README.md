@@ -1,10 +1,5 @@
 ## Rest-Api-for-Cars
 
-<h1 align="center">
-  <br />
-  <a href="https://www.linkedin.com/in/matheus-teodoro-7bb92818a/">
-  </a>
-</h1>
 <p align="center">
   <a href="#page_facing_up-descrição">Descrição</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;

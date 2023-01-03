@@ -1,3 +1,5 @@
+## Rest-Api-for-Cars
+
 <h1 align="center">
   <br />
   <a href="https://www.linkedin.com/in/matheus-teodoro-7bb92818a/">
@@ -13,9 +15,7 @@
 
 ## :page_facing_up: Descrição
 
-Projeto desenvolvido druante video do meu canal! <a href="https://www.youtube.com/channel/UCj9lHSHFW1eEAW8RDwXfXzA">Se inscreva no meu Canal!</a>
-
-Jubscleiton está lançando uma nova plataforma de vendas de carro. Nesta
+USER está lançando uma nova plataforma de vendas de carro. Nesta
 plataforma, desejamos realizar o cadastro de novos carros para os clientes
 consultarem.
 
